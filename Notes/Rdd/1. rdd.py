@@ -48,3 +48,7 @@ sc.defaultParallelism
 
 # appName is the application name used when logging information in the Spark logs
 sc.appName
+
+# COMMAND ----------
+
+
