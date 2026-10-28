@@ -1,0 +1,4 @@
+pyspark==3.5.3
+numpy>=1.26
+pytest>=8.0
+psutil>=5.9

@@ -1,0 +1,600 @@
+S005	20251010	plant_b	ok	41.43	spike observed near intake
+S017	20250124	lab	ok	45.65	all clear
+S009	20260306	plant_b	ok	58.31	spike observed near intake
+S006	20250528	plant_b	ok	37.63	calibrated after maintenance
+S017	20250613	plant_b	fail	40.79	calibrated after maintenance
+S021	20260327	plant_a	ok	57.64	operator reported vibration
+S010	20251112	warehouse	ok	40.66	normal
+S011	20260616	warehouse	ok	55.90	spike observed near intake
+S016	20260226	warehouse	fail	51.93	all clear
+S018	20260515	plant_b	warn	51.25	operator reported vibration
+S020	20250922
+S023	20250627
+S006	20250905	lab	ok	53.94	operator reported vibration
+S006	20251105	warehouse	ok	60.16	
+S023	20260131	plant_b	ok	21.63	calibrated after maintenance
+S011	20260621	warehouse	fail	65.02	
+S015	20260514	warehouse	fail	39.44	sensor replaced
+S024	20260407	plant_b	warn
+S017	20250706	lab	ok	43.65	
+S017	20260112	plant_b	fail	31.66	sensor replaced
+S022	20250903	lab	ok	55.71	sensor replaced
+S012	20250823	warehouse	ok	49.17	all clear
+S013	20260705	warehouse	ok	51.26	spike observed near intake
+S019	20250703	lab	warn	44.54	all clear
+S014	20260119	plant_b	ok	43.74	normal
+S015	20250904	lab
+S020	20260727	lab	ok	85.97	sensor replaced
+S008	20260213	lab	ok	42.81	
+S019	20250711	plant_a	warn	65.83	calibrated after maintenance
+S001	20251014	warehouse	warn
+S018	20250603	lab	ok	42.61	all clear
+S008	20260822	plant_b	ok	39.28	
+S020	20250425	warehouse	ok	65.16	sensor replaced
+S006	20250917	plant_a	ok	61.81	calibrated after maintenance
+S013	20260504	plant_a	ok	46.94	normal
+S003	20250215	lab	ok	35.45	normal
+S010	20260122	plant_a	ok	60.75	
+S006	20251021	plant_b	ok	58.99	spike observed near intake
+S013	20251004	plant_b	ok	49.90	calibrated after maintenance
+S018	20260112	plant_b	fail	53.63	calibrated after maintenance
+S008	20250503	lab	fail	37.03	operator reported vibration
+S014	20260603	plant_a	ok	53.71	spike observed near intake
+S023	20250518	plant_a	ok	62.36	
+S018	20260122	plant_b	warn	43.96	operator reported vibration
+S016	20251021	warehouse	ok	78.09	sensor replaced
+S002	20260109	warehouse	fail	54.76	spike observed near intake
+S005	20260528	warehouse	fail	52.95	sensor replaced
+S007	20260706	plant_b	warn	60.41	normal
+S011	20250317	warehouse	warn	40.79	all clear
+S015	20260126	lab	fail	34.58	
+S006	20260223	warehouse	ok	46.27	
+S022	20260531	warehouse	ok	46.26	operator reported vibration
+S018	20251124	plant_a	ok	78.26	
+S003	20260106	warehouse	warn
+S017	20250915	plant_a	ok	34.51	
+S005	20260626	plant_b	ok	55.95	normal
+S025	20250824	lab	ok	56.57	sensor replaced
+S021	20260105	warehouse	ok	51.75	spike observed near intake
+S019	20260125	warehouse	warn	50.04	
+S010	20251121	plant_b	ok	50.76	operator reported vibration
+S005	20260307	plant_b	warn	52.44	calibrated after maintenance
+S014	20260521	plant_b	ok	35.36	
+S022	20250601	lab	ok	50.26	all clear
+S023	20250426	lab	ok	50.56	sensor replaced
+S018	20260219	lab	warn	45.95	
+S012	20251228	plant_a	ok	52.06	operator reported vibration
+S015	20250725	plant_a	ok	48.31	
+S009	20260703	warehouse	warn	42.94	normal
+S016	20260629	warehouse	fail	71.69	operator reported vibration
+S025	20250804	warehouse	ok	38.50	all clear
+S016	20250925	plant_a	ok	44.63	operator reported vibration
+S013	20260715	plant_a	ok	36.84	spike observed near intake
+S019	20250128	plant_a	ok	34.20	operator reported vibration
+S007	20260615	warehouse	fail	65.12	operator reported vibration
+S004	20251130	plant_a	ok	73.08	sensor replaced
+S017	20250322	plant_b	ok
+S003	20260627	warehouse	warn	55.09	spike observed near intake
+S008	20260723	plant_b	ok	49.30	sensor replaced
+S001	20260130	plant_a	fail	66.74	all clear
+S006	20260307	plant_a	ok	56.44	all clear
+S017	20260318	lab	fail	52.19	calibrated after maintenance
+S017	20250813	plant_b	ok	44.45	operator reported vibration
+S022	20260614	lab	ok	57.29	spike observed near intake
+S004	20250310	plant_b	warn	32.48	spike observed near intake
+S009	20260814	plant_a	ok	61.80	all clear
+S023	20260810	lab	ok	47.16	spike observed near intake
+S023	20260417	lab	fail	46.32	calibrated after maintenance
+S005	20250625	plant_b	ok	56.53	all clear
+S019	20260729	plant_a	ok	38.37	spike observed near intake
+S009	20250514	warehouse	warn	77.09	
+S002	20250328	plant_b	ok	53.90	sensor replaced
+S012	20260731	plant_a	ok	24.29	sensor replaced
+S024	20250307	lab	ok	54.19	normal
+S012	20251003	warehouse	warn	52.66	spike observed near intake
+S010	20260417	plant_a	ok	71.59	spike observed near intake
+S002	20250828	lab	ok	47.16	sensor replaced
+S015	20260210	plant_b	ok	59.23	all clear
+S001	20251228	plant_b	ok	37.58	all clear
+S011	20260428	lab	warn	53.68	
+S004	20250810	plant_a	fail	62.73	normal
+S020	20251112	plant_a	warn	30.38	
+S015	20250618	lab	warn	50.78	sensor replaced
+S024	20251012	plant_b	warn	42.58	
+S006	20250807	lab	ok	51.64	calibrated after maintenance
+S025	20250519	plant_b
+S009	20250924	plant_b	ok	18.42	all clear
+S021	20260504	lab	ok	46.81	normal
+S004	20250510	plant_b	ok	59.37	
+S010	20251030	plant_b	ok	57.34	normal
+S021	20250119	plant_b	ok	28.03	operator reported vibration
+S020	20250115	warehouse	warn	57.48	spike observed near intake
+S001	20260528	warehouse	ok	48.49	all clear
+S015	20250319	lab	ok	41.56	sensor replaced
+S016	20260616	plant_b	ok	47.30	calibrated after maintenance
+S006	20260225	lab	ok	34.12	sensor replaced
+S019	20251016	lab	ok	41.90	normal
+S013	20251023	lab	ok	35.85	all clear
+S010	20260604	plant_b	ok	42.59	spike observed near intake
+S003	20260615	warehouse	ok	55.05	sensor replaced
+S020	20251011	warehouse	ok	58.33	spike observed near intake
+S002	20260116	lab	fail	56.63	sensor replaced
+S011	20260728	warehouse	warn	56.35	spike observed near intake
+S006	20260126	lab	ok	49.52	spike observed near intake
+S025	20250529	warehouse
+S024	20260419	lab	ok
+S005	20251110	plant_a	warn
+S004	20250627	plant_b	ok	50.96	
+S023	20251003	plant_a	fail	76.22	sensor replaced
+S007	20250601	lab	ok	60.82	all clear
+S019	20250314	lab	warn	46.69	spike observed near intake
+S013	20260814	plant_b	warn	48.67	spike observed near intake
+S005	20250329	lab	ok	31.16	sensor replaced
+S010	20250221	warehouse	fail	44.34	
+S025	20250819	warehouse	ok	24.22	spike observed near intake
+S019	20251015	lab	ok	63.36	all clear
+S005	20260711	plant_a	ok	46.94	all clear
+S010	20250531	lab	ok	56.05	all clear
+S025	20250514	lab	ok	60.12	
+S019	20260621	lab	ok	37.77	
+S004	20260116	plant_a	warn	44.02	spike observed near intake
+S002	20251115	plant_b	ok	50.66	normal
+S007	20260125	plant_a	ok	48.89	calibrated after maintenance
+S007	20260625	warehouse	ok	44.87	all clear
+S011	20251220	plant_a	ok
+S020	20250218	plant_b	fail	64.62	calibrated after maintenance
+S013	20250425	warehouse	fail	26.47	
+S024	20260608	plant_b	ok	61.33	operator reported vibration
+S004	20250829	lab	ok	66.15	
+S025	20260414	warehouse	ok	56.16	sensor replaced
+S023	20260517	lab	ok	44.16	sensor replaced
+S012	20250212	lab	warn	44.16	normal
+S002	20260811	lab	fail	46.25	all clear
+S010	20260508	warehouse	fail	29.23	normal
+S002	20260310	warehouse	ok	52.20	sensor replaced
+S025	20251218	plant_a	ok	46.08	sensor replaced
+S001	20260103	plant_b	ok	58.04	operator reported vibration
+S004	20260722	plant_b	fail	45.59	sensor replaced
+S022	20250921	lab	fail	43.00	normal
+S001	20260228	plant_b	ok	41.15	
+S007	20250404	plant_b	ok	65.81	operator reported vibration
+S014	20250627	plant_b	warn	30.73	normal
+S011	20260406	lab	ok	66.43	operator reported vibration
+S022	20260303	plant_a	ok	60.50	operator reported vibration
+S001	20251125	plant_b	ok	24.55	spike observed near intake
+S025	20250815	plant_a	fail	43.67	operator reported vibration
+S012	20260718	plant_a	ok	52.77	sensor replaced
+S020	20250522	plant_a	fail	49.58	
+S006	20250923	plant_a	warn	38.71	operator reported vibration
+S005	20251227	plant_b	fail
+S006	20250309	lab	fail	48.04	calibrated after maintenance
+S008	20251213	plant_a	warn	47.71	all clear
+S007	20250509	plant_b	ok	46.96	all clear
+S013	20260719	lab	ok	33.69	calibrated after maintenance
+S025	20250502	warehouse	ok	34.86	all clear
+S021	20251205	plant_a	ok	44.38	operator reported vibration
+S005	20250820
+S023	20260718	plant_a	warn	24.04	calibrated after maintenance
+S003	20251219	lab	fail	53.87	normal
+S014	20250307	warehouse	ok	50.88	operator reported vibration
+S013	20250813	plant_b	ok	44.18	all clear
+S024	20260416	plant_a	warn
+S018	20250316	warehouse	ok
+S008	20250225	plant_b	ok	50.41	all clear
+S013	20250710	plant_a
+S024	20260319	plant_a	ok	46.66	operator reported vibration
+S021	20250419	lab	ok	47.81	all clear
+S022	20250510	lab	ok	55.96	normal
+S020	20250709	plant_a	ok	47.00	operator reported vibration
+S017	20251121	plant_a	ok	44.06	all clear
+S002	20260728	warehouse	ok	43.51	calibrated after maintenance
+S020	20250209	plant_b	ok	41.32	sensor replaced
+S009	20260113	lab	ok	23.54	sensor replaced
+S025	20251013	plant_a	ok	53.16	normal
+S003	20250714	warehouse	warn	64.29	spike observed near intake
+S017	20260610	plant_a	ok	55.38	operator reported vibration
+S012	20251201	warehouse	fail	72.20	normal
+S005	20250130	lab	ok	62.58	operator reported vibration
+S006	20251026	lab	ok	46.89	calibrated after maintenance
+S017	20260129	warehouse	ok	40.81	calibrated after maintenance
+S019	20260507	plant_a	fail	35.78	spike observed near intake
+S014	20250329	plant_a	ok	63.69	all clear
+S004	20250920	plant_a	fail	75.49	all clear
+S021	20250722	warehouse
+S017	20250601	lab	ok	38.90	sensor replaced
+S019	20260520	warehouse	fail	60.39	operator reported vibration
+S020	20250531	plant_a	warn	50.36	
+S011	20250128	warehouse	fail	60.69	all clear
+S018	20250820	lab	fail	57.58	calibrated after maintenance
+S022	20260529	plant_a	ok	37.44	spike observed near intake
+S009	20250409	plant_b	ok
+S006	20250201	plant_a	warn	56.49	all clear
+S004	20251226	plant_b	ok	41.47	normal
+S007	20250827	warehouse	ok	43.67	sensor replaced
+S022	20260725	warehouse	ok	50.60	
+S004	20251018	warehouse	fail	65.89	all clear
+S025	20251203	warehouse	ok	54.13	operator reported vibration
+S018	20251123	plant_a	warn	62.67	calibrated after maintenance
+S014	20250429	plant_b	fail	44.14	calibrated after maintenance
+S016	20260401	warehouse	ok	55.30	operator reported vibration
+S020	20260225	plant_b	fail	45.88	sensor replaced
+S015	20260125	plant_b	ok	38.35	calibrated after maintenance
+S011	20250221	warehouse	ok	38.49	
+S011	20250801	plant_a	ok	60.22	calibrated after maintenance
+S024	20260222	plant_b	ok	41.72	
+S012	20250209	plant_b	warn	58.02	operator reported vibration
+S005	20250125	plant_b	ok
+S008	20260815	lab	fail	47.30	spike observed near intake
+S011	20250611	lab	fail	48.99	spike observed near intake
+S013	20250223	warehouse	warn	33.87	operator reported vibration
+S021	20260201	warehouse	ok	49.54	all clear
+S013	20250412	plant_a	ok	44.49	calibrated after maintenance
+S009	20250131	warehouse	ok	54.48	sensor replaced
+S015	20260127	plant_a	fail	41.97	
+S010	20250715	warehouse	warn	65.90	sensor replaced
+S016	20260329	plant_b	ok	42.04	operator reported vibration
+S007	20260315	lab	ok	60.23	operator reported vibration
+S025	20260630	plant_a	ok	62.24	calibrated after maintenance
+S021	20250102	plant_a	warn	49.21	normal
+S021	20260109	lab	warn	80.17	all clear
+S021	20251218	warehouse	warn	55.91	
+S006	20250904	plant_a	fail	65.36	normal
+S007	20260515	warehouse	fail	55.19	normal
+S003	20251112	plant_a	fail	26.68	operator reported vibration
+S005	20260406	plant_a	ok	68.47	all clear
+S017	20250317	plant_a	warn	21.24	operator reported vibration
+S008	20250909	plant_a	warn	49.45	operator reported vibration
+S018	20250816	lab	ok	46.33	normal
+S008	20260619	plant_a	warn	55.71	spike observed near intake
+S016	20260419	warehouse	ok	49.12	
+S013	20250509	plant_a	warn	53.48	spike observed near intake
+S024	20260430	plant_b	warn	70.01	
+S001	20260722	plant_a	ok	29.33	
+S005	20250827	warehouse	ok	46.56	spike observed near intake
+S016	20260305	plant_a	fail	30.21	calibrated after maintenance
+S005	20251231	plant_a	ok	45.58	
+S016	20251124	lab	warn	48.48	
+S012	20250321	plant_a	fail	55.46	all clear
+S023	20260117	lab	warn	48.83	normal
+S022	20260522	warehouse	ok	38.11	all clear
+S010	20260207	lab	ok	73.40	spike observed near intake
+S006	20260107	plant_a	ok	49.59	spike observed near intake
+S016	20250725	plant_b	ok	40.20	operator reported vibration
+S025	20250419
+S013	20260820	plant_b	ok	53.26	
+S005	20260819	plant_b	ok	70.60	spike observed near intake
+S015	20251117	warehouse	ok	62.19	sensor replaced
+S022	20260225	plant_a	ok	45.15	normal
+S019	20250822	plant_a	fail	48.71	spike observed near intake
+S021	20251203	plant_b	ok	71.73	spike observed near intake
+S012	20251029	plant_a	ok	69.21	spike observed near intake
+S025	20260729	plant_b	fail	59.15	operator reported vibration
+S025	20260208	plant_a	ok	48.34	
+S011	20260405	plant_a	warn	54.70	
+S024	20250425	lab	ok	51.14	operator reported vibration
+S024	20251007	warehouse	ok	54.79	all clear
+S002	20260208	plant_b	ok	68.44	
+S001	20251108	lab	ok	56.99	operator reported vibration
+S008	20260416	plant_a	ok	40.96	calibrated after maintenance
+S012	20250907	plant_a	fail	42.30	operator reported vibration
+S008	20250103	warehouse	fail	49.84	sensor replaced
+S023	20250920	plant_b	ok	30.24	spike observed near intake
+S005	20250927	plant_a	fail	61.43	normal
+S001	20260317	warehouse
+S020	20251213	lab	ok	50.31	sensor replaced
+S008	20250320	warehouse	ok	81.65	operator reported vibration
+S017	20251013	plant_b	fail	50.45	all clear
+S002	20260428	lab	fail	51.75	all clear
+S017	20250829	lab	fail	39.47	all clear
+S004	20250518	plant_a	warn	27.88	calibrated after maintenance
+S010	20251015	lab	warn
+S003	20250910	plant_a	ok	56.80	
+S021	20260420	plant_b	fail	50.07	operator reported vibration
+S014	20251026	plant_a	ok	47.62	all clear
+S025	20260422	warehouse	warn	60.10	operator reported vibration
+S025	20260704	plant_a	ok	16.41	sensor replaced
+S005	20250117	lab	warn	30.25	normal
+S006	20260318	warehouse	ok	32.94	sensor replaced
+S012	20260126	plant_a	warn	51.09	sensor replaced
+S014	20251116	plant_a	warn	53.32	sensor replaced
+S024	20251014	lab	ok
+S003	20250129	plant_b	ok	34.55	
+S019	20250814	plant_a	ok	23.85	
+S008	20260708	warehouse	warn	31.81	
+S017	20250929	warehouse	fail	79.66	sensor replaced
+S019	20250613	warehouse	ok	33.87	calibrated after maintenance
+S003	20250117	warehouse	fail	40.75	spike observed near intake
+S017	20250901	plant_b	ok	74.05	
+S018	20260714	plant_b	fail	37.70	calibrated after maintenance
+S009	20250222	plant_a	warn	51.57	all clear
+S007	20250315	warehouse	ok	52.99	calibrated after maintenance
+S025	20260523	plant_b	fail	68.08	calibrated after maintenance
+S024	20250612	warehouse	ok	47.06	normal
+S004	20251007	plant_a	warn	39.47	spike observed near intake
+S025	20260617	warehouse	ok	54.86	operator reported vibration
+S008	20260623	warehouse	warn	59.89	spike observed near intake
+S014	20250408	warehouse	ok	32.92	calibrated after maintenance
+S017	20250506	plant_a	fail	49.38	
+S022	20250103	plant_a	ok	53.95	
+S013	20250331	plant_a	ok	70.07	sensor replaced
+S002	20260331	plant_b	fail	64.64	
+S003	20250410	lab	ok	52.69	operator reported vibration
+S002	20260527	lab	ok	33.12	sensor replaced
+S013	20260426	plant_b	ok	41.56	sensor replaced
+S025	20250821	plant_a	ok	62.12	all clear
+S007	20250609	lab	ok	42.69	
+S024	20250112	plant_b	ok
+S012	20260308	lab
+S008	20260312	warehouse	ok	66.09	operator reported vibration
+S018	20250815	plant_a	ok	69.50	sensor replaced
+S016	20250207	plant_b	ok	32.17	spike observed near intake
+S007	20250815	lab	fail	60.76	sensor replaced
+S007	20250118	lab	ok	43.49	normal
+S002	20250710	warehouse	ok	46.19	calibrated after maintenance
+S023	20260805	lab	warn	53.59	
+S005	20250302	plant_b	ok	37.95	calibrated after maintenance
+S013	20250512	lab	ok	46.23	normal
+S025	20260201	lab	fail
+S019	20260223	plant_b	ok	52.16	sensor replaced
+S015	20250412
+S010	20260323	plant_a	ok	63.35	operator reported vibration
+S012	20250615	plant_b	warn	45.84	all clear
+S016	20260504
+S016	20260323
+S018	20250501	warehouse	ok	45.17	spike observed near intake
+S015	20260124	plant_b	warn	45.81	normal
+S023	20251025	lab	warn	36.93	spike observed near intake
+S009	20250314	lab	fail	62.49	all clear
+S006	20250202	warehouse	ok	33.87	normal
+S007	20250207	lab	ok	26.47	spike observed near intake
+S021	20250815	plant_b	ok	39.19	sensor replaced
+S007	20250416	warehouse	ok	49.49	normal
+S012	20250911	lab	warn	14.99	sensor replaced
+S016	20250110	plant_b	ok	37.16	
+S021	20250822	lab	warn	72.97	spike observed near intake
+S004	20260606	warehouse	warn	39.68	all clear
+S008	20260621	plant_b	ok	73.63	
+S008	20251209	plant_b	ok	45.02	spike observed near intake
+S001	20260805	warehouse	ok	59.38	all clear
+S014	20251108	plant_b	ok	43.98	
+S001	20251103	warehouse	warn	29.93	calibrated after maintenance
+S007	20260612	lab	fail	59.77	normal
+S002	20260330	plant_b	ok	58.71	sensor replaced
+S024	20250812	plant_b	fail	53.26	sensor replaced
+S001	20260409	lab	ok	34.92	spike observed near intake
+S007	20260604	plant_a	fail	73.30	operator reported vibration
+S009	20250219	plant_a	fail	49.25	sensor replaced
+S025	20260726	plant_a	fail	46.13	operator reported vibration
+S022	20260109	plant_b	ok	58.73	operator reported vibration
+S017	20260708	lab	warn	74.08	spike observed near intake
+S006	20260324	plant_b	fail	30.74	operator reported vibration
+S025	20250423	warehouse	fail	44.52	normal
+S013	20260724
+S005	20251203	warehouse	warn	56.69	spike observed near intake
+S017	20250128	plant_a	fail	32.80	calibrated after maintenance
+S011	20250318	plant_a	warn	60.06	all clear
+S025	20260423	plant_a	ok	14.79	operator reported vibration
+S008	20250303	lab
+S006	20250622	plant_b	ok	88.92	operator reported vibration
+S017	20250808	plant_b	warn	46.28	spike observed near intake
+S014	20260720	warehouse	ok	59.71	sensor replaced
+S008	20260503	plant_a	ok	43.80	sensor replaced
+S008	20250630	plant_a	fail	52.31	
+S025	20250611	plant_b	ok	44.63	operator reported vibration
+S005	20260706	warehouse	ok	64.51	all clear
+S023	20250918	plant_b	ok	61.90	normal
+S021	20250419	plant_b	warn	55.17	
+S002	20250427	plant_b	fail	60.99	all clear
+S011	20250505	warehouse	fail	58.07	
+S007	20250321	warehouse	ok	36.71	
+S014	20250705	plant_a	fail	49.17	all clear
+S005	20260330	plant_a	fail	36.81	normal
+S005	20250312	plant_b	fail	63.11	operator reported vibration
+S003	20250801	warehouse	fail	50.62	sensor replaced
+S006	20250902
+S008	20260116
+S025	20260203	plant_b	ok	46.64	calibrated after maintenance
+S015	20250203	lab	fail	31.88	spike observed near intake
+S014	20260213	lab	fail	16.76	
+S010	20260324	warehouse	ok	37.06	sensor replaced
+S015	20260516	lab	ok	52.86	normal
+S022	20250518	plant_a	warn	34.80	operator reported vibration
+S013	20251112	plant_b	fail	53.64	spike observed near intake
+S001	20250805	warehouse	ok	54.15	spike observed near intake
+S020	20250712	plant_a	ok	48.42	calibrated after maintenance
+S020	20260818	plant_b	ok	74.59	all clear
+S004	20250808	warehouse	ok
+S010	20250418	warehouse	fail	47.98	sensor replaced
+S025	20260128	lab	ok	39.13	
+S018	20260624	lab	fail	31.10	all clear
+S013	20251026	plant_a	warn	59.20	spike observed near intake
+S012	20250313	plant_b	fail	53.57	normal
+S003	20260710	warehouse	ok	36.20	all clear
+S007	20250629	plant_a	fail	58.01	sensor replaced
+S016	20250706	warehouse	ok	56.85	normal
+S012	20250119	plant_b	ok	43.42	normal
+S023	20260503
+S011	20260618	warehouse	ok	48.69	normal
+S004	20260110	warehouse	ok	52.97	sensor replaced
+S009	20250825	warehouse	ok	72.84	
+S021	20260327	plant_a	warn	55.70	normal
+S015	20260129	warehouse	ok	57.53	spike observed near intake
+S014	20260425	plant_a	ok	30.68	all clear
+S001	20250323	plant_a	ok	59.05	calibrated after maintenance
+S012	20250213	lab	ok	41.47	spike observed near intake
+S001	20250214	warehouse	fail	67.23	spike observed near intake
+S013	20260320	plant_b	ok	35.38	normal
+S004	20250417	plant_b	ok	30.81	normal
+S023	20260221	warehouse	ok	51.11	spike observed near intake
+S015	20250916	lab	ok	43.17	operator reported vibration
+S017	20250630	plant_a	ok	39.33	spike observed near intake
+S016	20251016	plant_b	warn	40.23	calibrated after maintenance
+S017	20260604
+S005	20260225	plant_a	ok	46.31	calibrated after maintenance
+S012	20251003	lab	warn	36.82	calibrated after maintenance
+S014	20250227	plant_a	warn	41.87	operator reported vibration
+S011	20260203	plant_a	ok	48.21	sensor replaced
+S018	20250228	plant_b	fail	57.90	all clear
+S006	20260202	plant_a	ok	35.79	sensor replaced
+S011	20250828	plant_a	ok	56.04	all clear
+S008	20260506	lab	ok	43.13	spike observed near intake
+S021	20250330	plant_a	warn	58.97	
+S023	20251029	plant_a	ok	55.46	all clear
+S003	20250820	plant_b	ok	57.58	normal
+S012	20250601	warehouse
+S009	20250105	plant_a	ok	41.04	sensor replaced
+S024	20250626	plant_b	warn	67.61	
+S020	20250320	warehouse	ok	54.99	sensor replaced
+S017	20260512	warehouse	ok	53.05	sensor replaced
+S020	20251128	lab	ok	59.24	calibrated after maintenance
+S002	20251227	plant_a	ok	46.06	spike observed near intake
+S024	20250207	warehouse	ok	34.46	spike observed near intake
+S025	20250811	lab	ok	48.95	spike observed near intake
+S003	20260529	lab	ok	23.57	normal
+S002	20260213	warehouse	fail	26.46	normal
+S022	20260709	lab	ok	62.34	all clear
+S011	20260706	warehouse	ok	53.70	
+S019	20250212	plant_a	ok	56.08	sensor replaced
+S006	20250217	plant_b	fail	51.67	operator reported vibration
+S003	20260122	lab	ok	48.94	calibrated after maintenance
+S024	20250306	plant_b	ok	35.63	sensor replaced
+S007	20260304	plant_a	ok	47.62	operator reported vibration
+S005	20250811	plant_a	ok	49.21	
+S013	20260820	plant_b	fail	55.46	operator reported vibration
+S008	20260720	plant_a
+S019	20250912	warehouse	fail	27.49	all clear
+S017	20250102	warehouse	warn	37.02	sensor replaced
+S008	20250301	warehouse	ok	56.45	spike observed near intake
+S012	20260606	warehouse	ok	64.23	spike observed near intake
+S003	20250817	plant_b	ok	67.45	sensor replaced
+S016	20250220	plant_a	ok	45.48	all clear
+S017	20251026	plant_a	warn	47.13	all clear
+S015	20250705	plant_a	ok	47.51	calibrated after maintenance
+S013	20250201	plant_b	warn	39.93	
+S014	20250622	plant_a	ok	40.97	sensor replaced
+S018	20260525	plant_b	ok	70.57	sensor replaced
+S020	20251030	lab	ok	40.87	all clear
+S002	20260727	plant_b	ok	45.02	calibrated after maintenance
+S020	20260717	plant_a	ok	56.88	all clear
+S022	20260716	plant_b	ok	75.51	spike observed near intake
+S009	20260106	lab	fail	49.87	
+S020	20260321	plant_b	ok
+S023	20260217	plant_b	fail	52.80	all clear
+S025	20260114	warehouse	ok	47.13	spike observed near intake
+S006	20250926	lab	fail
+S025	20250925	lab	fail	41.27	sensor replaced
+S009	20260530	plant_a	fail	54.86	normal
+S006	20250120	warehouse	ok	48.07	operator reported vibration
+S016	20260602	warehouse	ok	35.48	spike observed near intake
+S002	20250416	lab	fail	72.02	operator reported vibration
+S011	20251216	lab	ok	61.53	all clear
+S010	20251117	lab	fail	55.01	spike observed near intake
+S012	20250219	plant_b	ok	55.29	normal
+S021	20250317	lab	ok	62.97	calibrated after maintenance
+S016	20250405	lab	ok	45.34	all clear
+S012	20260517	plant_b	ok	38.43	spike observed near intake
+S012	20250514	lab	warn	59.13	operator reported vibration
+S017	20260215	plant_a	ok
+S002	20251222	plant_a	ok	51.37	calibrated after maintenance
+S011	20260719	plant_a	ok	56.84	normal
+S006	20250523	lab	ok	55.77	spike observed near intake
+S007	20260401	plant_a	fail	42.35	calibrated after maintenance
+S011	20250816	lab	ok	45.83	
+S008	20260805	plant_b	ok	41.66	normal
+S020	20251120	plant_b	ok	44.33	sensor replaced
+S019	20260315	plant_b	warn	63.10	
+S023	20250108	lab	ok	30.97	operator reported vibration
+S011	20251017	plant_a
+S022	20260408	plant_b	fail	48.97	operator reported vibration
+S015	20260228	plant_a	ok	39.25	operator reported vibration
+S021	20250211
+S024	20250413	plant_a	ok	68.61	calibrated after maintenance
+S007	20250418	plant_b	warn	45.10	calibrated after maintenance
+S019	20251221	warehouse	ok	43.45	calibrated after maintenance
+S025	20250307	plant_b	ok	59.60	calibrated after maintenance
+S016	20251023	plant_b	warn	47.29	all clear
+S022	20260601	warehouse	ok	36.28	normal
+S014	20260103	plant_a	ok	78.48	
+S004	20251219	plant_a	ok	43.97	
+S005	20260807	plant_a	warn	25.34	spike observed near intake
+S012	20260824	warehouse	fail	55.89	
+S004	20260218	lab	ok	48.37	spike observed near intake
+S023	20250912	plant_a	ok	54.11	
+S013	20251116	plant_a	fail	34.99	calibrated after maintenance
+S022	20251118	warehouse	warn
+S016	20250530	plant_b	warn	43.57	sensor replaced
+S006	20250516	plant_a	ok	67.41	operator reported vibration
+S023	20250207	lab	ok	38.39	sensor replaced
+S002	20250724	lab	ok	51.67	calibrated after maintenance
+S022	20250906	plant_a	ok	44.99	all clear
+S007	20260701	warehouse	fail	41.57	
+S013	20250210	plant_b
+S020	20250930	plant_a	fail
+S012	20251208	warehouse	fail	60.87	all clear
+S007	20260726	plant_b	ok	29.70	calibrated after maintenance
+S009	20250604	warehouse	ok	49.70	calibrated after maintenance
+S009	20251116	plant_a	ok	59.17	all clear
+S002	20250804	plant_a	ok	50.89	operator reported vibration
+S002	20260804	plant_a	ok	52.73	sensor replaced
+S007	20260203	warehouse	fail	67.00	spike observed near intake
+S024	20251126	lab	ok	42.89	sensor replaced
+S016	20260327	plant_a	ok
+S019	20250227	plant_a	ok	52.95	
+S012	20260602	lab	ok	62.97	spike observed near intake
+S019	20260208	plant_a
+S011	20250617	plant_a	fail	49.93	sensor replaced
+S022	20260714	warehouse	ok	51.21	all clear
+S014	20250124	warehouse	ok	44.23	
+S006	20250715	warehouse	ok	81.44	normal
+S007	20250113	lab	warn	58.20	calibrated after maintenance
+S012	20251226	plant_a	ok	26.81	operator reported vibration
+S025	20250425	warehouse	ok	63.95	operator reported vibration
+S022	20250101	lab	fail	35.35	operator reported vibration
+S002	20250101
+S025	20250224	plant_a	fail	54.02	spike observed near intake
+S005	20260817	plant_b	warn	45.00	calibrated after maintenance
+S020	20260430	lab	ok	85.42	normal
+S012	20250626	lab	ok	35.70	calibrated after maintenance
+S004	20260202	lab	ok	59.76	spike observed near intake
+S025	20250727	warehouse	fail	53.14	operator reported vibration
+S017	20250308	lab	fail	33.91	
+S012	20260515	plant_b	ok	36.08	all clear
+S001	20251102	warehouse	ok	52.65	calibrated after maintenance
+S012	20250327	lab	fail	52.99	normal
+S011	20250627	lab	ok	64.48	operator reported vibration
+S008	20250405	lab	ok	55.23	calibrated after maintenance
+S018	20251231	plant_a	ok	66.52	calibrated after maintenance
+S007	20250405	warehouse	warn	39.34	sensor replaced
+S023	20260212	plant_a	ok	52.87	
+S015	20260617	plant_a	ok	79.07	operator reported vibration
+S008	20260517	plant_b	ok	70.05	operator reported vibration
+S022	20250117	plant_b	ok	51.92	
+S019	20260423	plant_b	fail	82.19	all clear
+S015	20260425	plant_b	warn	42.60	all clear
+S002	20260403	plant_a	warn	25.36	
+S002	20260225	warehouse	warn	35.81	operator reported vibration
+S019	20260820
+S016	20260820
+S007	20251007	plant_a	fail	75.06	calibrated after maintenance
+S006	20250702	lab	ok	45.06	sensor replaced
+S017	20260616	lab	ok	28.03	sensor replaced
+S005	20250316	warehouse	fail	44.05	
+S022	20251231	plant_a	ok	51.14	
+S016	20250205	warehouse	ok	48.93	operator reported vibration
+S014	20250415	warehouse	fail	40.97	normal
+S016	20260624	plant_b	ok	50.60	calibrated after maintenance
+S017	20260806	plant_b	fail	32.00	normal
+S025	20250105	warehouse	fail	54.14	all clear
+S001	20260423	lab	ok	56.31	operator reported vibration
+S004	20250331	plant_a	ok	57.08	operator reported vibration
+S017	20251020	warehouse	ok	37.40	calibrated after maintenance
+S004	20260817	plant_b	ok	51.54	calibrated after maintenance
+S021	20251017	warehouse	warn	61.72	spike observed near intake
+S009	20250714	lab	fail	52.54	normal
+S019	20260421	lab	warn	68.67	
+S021	20250803	warehouse
+S004	20250621	warehouse	ok	62.61	normal
+S018	20260214	lab	fail	32.81	spike observed near intake
+S010	20260524	lab	ok	41.54	sensor replaced
+S004	20250917	plant_a	fail	57.64	
+S014	20260213	plant_a	ok	80.25	

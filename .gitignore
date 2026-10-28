@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Spark artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+checkpoint/
+checkpoints/
+
+# Generated outputs from the example scripts
+output/
+outputs/
